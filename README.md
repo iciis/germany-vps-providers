@@ -106,7 +106,7 @@ The "best" provider is subjective and depends on your specific requirements (e.g
 ## **Why would you require a Good VPS Server in Germany?**
 
 <a href="https://afftrend.com/bestgermanyvpsserverproviders">
-  <img src="https://drive.google.com/uc?export=view&id=1CY19j_Ad4J5HjvKqJTPgjSMH-2htoLqI/"  alt="VPS Server in Germany">
+  <img src="https://drive.google.com/uc?export=view&id=1CY19j_Ad4J5HjvKqJTPgjSMH-2htoLqI"  alt="VPS Server in Germany">
 </a>
 
 Choosing a good VPS server in Germany, rather than simply the cheapest option, is essential for businesses and individuals who prioritize performance, stability, security, and reliable access for their online projects, especially when targeting a German or broader European audience.
