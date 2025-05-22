@@ -89,7 +89,9 @@ Vultr offers high-performance cloud compute instances (VPS) from its Frankfurt d
 
 **6. Netcup:**
     
-
+<a href="https://afftrend.com/netcup">
+  <img src="https://drive.google.com/uc?export=view&id=1ZuDbachDf2o1T2U2ZkfTQf3J3OPImK27"  alt="Netcup Homepage ">
+</a>
 
 A popular German provider, Netcup offers a range of VPS (vServer) and root servers with a strong focus on value, fair pricing, and German data center locations. They often include features like DDoS protection and offer various OS choices, appealing to tech-savvy users.
     
@@ -149,7 +151,9 @@ Hetzner Online offers various services with the following starting prices:
 
 ### **1&1 IONOS**
 
-
+<a href="https://afftrend.com/ionos">
+  <img src="https://drive.google.com/uc?export=view&id=19a0J9I2KCCqOhENi1dTdKaMN-7QyC_Fq"  alt="1&1 IONOS Pricing">
+</a>
 
 - **VPS XS:** $2/month (Risk-free for 30 days)
     - Specs: 1 vCore CPU, 1 GB RAM, 10 GB NVMe
@@ -183,7 +187,9 @@ Hetzner Online offers various services with the following starting prices:
 
 ### DigitalOcean
 
-
+<a href="https://afftrend.com/digitalocean">
+  <img src="https://drive.google.com/uc?export=view&id=v2MDAoHNbTtAplbUBvlGwYcjeRuTePPi"  alt="DigitalOcean pricing">
+</a>
 
 DigitalOcean offers several products with the following starting prices:
 
@@ -196,7 +202,9 @@ DigitalOcean offers several products with the following starting prices:
 
 ### Vultr
 
-
+<a href="https://afftrend.com/vultr">
+  <img src="https://drive.google.com/uc?export=view&id=1yAAyhGr3i1JT0h6Qz-pTPN2w-cFzC-J_"  alt="Vultr Pricing ">
+</a>
 
 - **1 vCPU, 1 GB RAM, 25 GB Storage, 2.00 TB Bandwidth:** $6.00/month (or $0.009/hr)
 - **1 vCPU, 2 GB RAM, 50 GB Storage, 3.00 TB Bandwidth:** $12.00/month (or $0.018/hr)
